@@ -12,7 +12,17 @@ This course is designed to be delivered over six two‑hour sessions, typically 
 
 By the end of the training, learners should feel confident enough to begin any introductory Python course on the Learning Hub, YouTube, or from a book. While there are many excellent Python tutorials available online, this resource is tailored specifically for learners who benefit from guided, confidence‑building support at the very start of their Python journey.
 
-**Presentations used for each session aren't included yet but these will be included shortly.**
+**Presentations used for each session aren't included yet but thesethe content from them will be included shortly.**
+
+---
+
+# Before you start writing code
+
+Before you start writing some code you will need to detemine what you are going to write it in. You will need to determine platform and/or IDE. ONS collegues should start by completing a service desk request for Python software before looking at the [ASAP wiki](https://gitlab-app-l-01/ASAP/coding-getting-started-guide/-/wikis/home) for more detailed instalation and getting started information.
+
+If you are not working from an ONS system you may want to consider an online tool for writing and running code such as Google Colab instead of installing Python Software on your machine. 
+
+Throught this training set we use a notebook type setup for writing and reading code instead of using an IDE to write `.py` files. 
 
 ---
 
